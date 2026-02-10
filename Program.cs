@@ -82,3 +82,16 @@
 // }
 
 // #endregion
+
+
+// #region problem 6
+
+// System.Console.WriteLine("Problem 6:");
+//     object o = 10;
+// int a = (int)o;
+// Console.WriteLine(a + 1);
+
+// // result = 11 
+
+// // the object O is assigned the value 10 as an integer and then it's cast back to an integer and stored in variable a. When we add 1 to a, it results in 11.
+// #endregion
