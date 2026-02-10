@@ -200,3 +200,18 @@
 
     
 // #endregion
+
+
+// #region problem 14
+
+// System.Console.WriteLine("Problem 14:");
+
+//     string? s = null;
+// //A
+// int a = int.Parse(s);
+// //B
+// int b = Convert.ToInt32(s);
+// Console.WriteLine(b);
+
+// // A will throw a FormatException because parse not accept null values, while B will return 0 because Convert.ToInt32 can handle null values and returns 0 in that case.
+// #endregion
