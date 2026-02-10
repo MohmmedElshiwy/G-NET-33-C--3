@@ -25,3 +25,27 @@
 
 
 // #endregion
+
+
+
+// #region problem 3
+// /*3 - */
+
+// System.Console.WriteLine("Problem 3:");
+// while(true)
+// {
+//     Console.WriteLine("Enter your age: ");
+// if(int.TryParse(Console.ReadLine(),out int age))
+// {
+
+//     Console.WriteLine($" Your Age is : {age}" );
+//     break;
+// }
+// else
+// {
+//     Console.WriteLine("Invalid input. Please enter a valid integer.");
+// }
+
+// }
+
+// #endregion
