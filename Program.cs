@@ -186,3 +186,17 @@
 // System.Console.WriteLine(s?.Length ?? 0);
     
 // #endregion
+
+
+// #region problem 13
+
+// System.Console.WriteLine("Problem 13:");
+// string? s = null;
+// int x = Convert.ToInt32(s);
+// Console.WriteLine(x);
+ 
+//  // the result is 0 
+//  // this code will throw a format exception if the value of S is not number or null 
+
+    
+// #endregion
