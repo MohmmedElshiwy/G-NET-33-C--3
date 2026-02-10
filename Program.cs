@@ -147,3 +147,28 @@
 // // it will print 0 because the null is accepted and if the length is null it will return 0 as default value
     
 // #endregion
+
+
+// #region problem 11
+
+// System.Console.WriteLine("Problem 11:");
+
+
+
+// string? s = "a";
+// // int x = int.Parse(s ?? "0");
+// // Console.WriteLine(x);
+
+
+// // // if the string s has a null val it will return 0 as default val 
+// // // if thre anything other than a number is in the string it will throw an exception because it can not be parsed to an integer
+// // // to resolve this we can use int .  tryParese to handle the exeptions and return a default value if the parsing fails
+// if (int.TryParse(s, out int x))
+// {
+//     Console.WriteLine(x);
+// }
+// else
+// {
+//     Console.WriteLine("Invalid input. Please enter a valid integer.");
+// }
+// #endregion
