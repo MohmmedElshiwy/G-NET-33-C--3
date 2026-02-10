@@ -124,3 +124,12 @@
     // };
     // System.Console.WriteLine(x);
     // #endregion
+
+//     #region problem 9
+//     System.Console.WriteLine("Problem 9:");
+
+//         string? name = null;
+// Console.WriteLine(name?.Length);
+
+// // it will print empty line because the null is accepted 
+//     #endregion
