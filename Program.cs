@@ -95,3 +95,14 @@
 
 // // the object O is assigned the value 10 as an integer and then it's cast back to an integer and stored in variable a. When we add 1 to a, it results in 11.
 // #endregion
+
+// #region problem 7
+    
+//     System.Console.WriteLine("Problem 7:");
+
+//     object o = 10;
+// long x = (long)o;
+// Console.WriteLine(x);
+
+// // will throw an invalid cast exception because the object O is assigned the valu 10 as an integer , and then we are tring to cast it to a long with out converting it to an int first.
+// #endregion
