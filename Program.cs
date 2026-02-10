@@ -49,3 +49,17 @@
 // }
 
 // #endregion
+
+
+// #region problem 4
+
+// /*4 - */
+
+// System.Console.WriteLine("Problem 4:");
+// string s = "12a";
+// int y = int.Parse(s);
+// Console.WriteLine(y);
+
+// // this code will throw exception because there is a non-numeric character 
+    
+// #endregion
