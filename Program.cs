@@ -106,3 +106,21 @@
 
 // // will throw an invalid cast exception because the object O is assigned the valu 10 as an integer , and then we are tring to cast it to a long with out converting it to an int first.
 // #endregion
+
+
+  // #region problem 8
+    // System.Console.WriteLine("Problem 8:");
+
+    // object o = 10;
+    // long x ;
+
+    // try
+    // {
+    //     x = Convert.ToInt64(o);
+    // }
+    // catch 
+    // {
+    //     x=-1;
+    // };
+    // System.Console.WriteLine(x);
+    // #endregion
