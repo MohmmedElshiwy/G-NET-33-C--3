@@ -215,3 +215,19 @@
 
 // // A will throw a FormatException because parse not accept null values, while B will return 0 because Convert.ToInt32 can handle null values and returns 0 in that case.
 // #endregion
+
+// #region problem 15
+
+// System.Console.WriteLine("Problem 15: \n");
+
+// System.Console.WriteLine("Enter your name: ");
+// string? user = Console.ReadLine();
+// if(user != null)
+// {
+//     System.Console.WriteLine($"Hello, {user}!");
+// }
+// else
+// {
+//     System.Console.WriteLine("Hello, Guest!");
+// }
+// #endregion
