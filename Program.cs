@@ -133,3 +133,17 @@
 
 // // it will print empty line because the null is accepted 
 //     #endregion
+
+
+
+// #region problem 10 
+
+// System.Console.WriteLine("Problem 10:");
+
+// string? name2 = null;
+// int length = name2?.Length ?? 0;
+// Console.WriteLine(length);
+
+// // it will print 0 because the null is accepted and if the length is null it will return 0 as default value
+    
+// #endregion
