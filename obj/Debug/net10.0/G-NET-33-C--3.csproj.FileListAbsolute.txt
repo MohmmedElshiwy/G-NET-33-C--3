@@ -1,0 +1,14 @@
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/bin/Debug/net10.0/G-NET-33-C--3
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/bin/Debug/net10.0/G-NET-33-C--3.deps.json
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/bin/Debug/net10.0/G-NET-33-C--3.runtimeconfig.json
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/bin/Debug/net10.0/G-NET-33-C--3.dll
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/bin/Debug/net10.0/G-NET-33-C--3.pdb
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.GeneratedMSBuildEditorConfig.editorconfig
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.AssemblyInfoInputs.cache
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.AssemblyInfo.cs
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.csproj.CoreCompileInputs.cache
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.dll
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/refint/G-NET-33-C--3.dll
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.pdb
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/G-NET-33-C--3.genruntimeconfig.cache
+/media/kiro/3AD0C0D1587627C5/BackEnd/Root/Assin/c#/week 2/G-NET-33-C--3/obj/Debug/net10.0/ref/G-NET-33-C--3.dll
