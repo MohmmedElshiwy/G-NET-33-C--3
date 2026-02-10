@@ -63,3 +63,22 @@
 // // this code will throw exception because there is a non-numeric character 
     
 // #endregion
+
+
+// #region problem 5
+
+
+// /*5- */
+
+// System.Console.WriteLine("Problem 5:");
+// string s2 = "12a";
+// if(int.TryParse(s2, out int result))
+// {
+//     Console.WriteLine(result);
+// }
+// else
+// {
+//     Console.WriteLine("Invalid input. Please enter a valid integer.");
+// }
+
+// #endregion
