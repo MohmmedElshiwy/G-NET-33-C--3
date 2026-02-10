@@ -172,3 +172,17 @@
 //     Console.WriteLine("Invalid input. Please enter a valid integer.");
 // }
 // #endregion
+
+
+// #region  problem 12
+
+// System.Console.WriteLine("Problem 12:");
+// string? s = null;
+// Console.WriteLine(s!.Length);
+
+// // this code will throw a null reference exception because the null forgiving operator is used 
+
+// // resolve 
+// System.Console.WriteLine(s?.Length ?? 0);
+    
+// #endregion
